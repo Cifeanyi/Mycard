@@ -1,52 +1,28 @@
 header{
-    background-color: black;
-    color:white;
+    background-image:url(img/bg.jpeg);
+    background-size: cover;
     padding:0px;
     margin:-15px;
 }
-ul {
-    list-style: none;
-    display:flex;
-    justify-content: space-between;
 
-}
-ol{
-    list-style: none;
-    display: flex;
-    margin-top:49%;
-    font-size:150%;
-}
-ol a:hover{
-    background-color:white; 
-    text-decoration: none;
-    color: black;
- }
-a{
-    font-weight: bolder;
-    color:skyblue;
- }
- ol a{
-    text-decoration: none;
- }
-ol li{
-    margin-right: 10px;
-    color:white;
-}
 body{
-    background-image:url(img/w.jpeg);
-    background-size:cover;
+background-color: black;
 }
 .main{
-    background-color:black;
     color:white;
     margin:30px;
     border-radius: 10px;
     display:grid;
     justify-content: center;
     place-items:center;
+    font-family: 'Times New Roman', Times;
 }
 .pics{
-    margin-top: 20px;
-    border-radius: 10px;
+    margin-top: 10px;
+    border-radius: 50px;
     width:25%;
+}
+body{
+    background-image:url(img/bg.jpeg);
+    background-size: cover;
 }
