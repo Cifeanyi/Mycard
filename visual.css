@@ -26,3 +26,9 @@ body{
     background-image:url(img/bg.jpeg);
     background-size: cover;
 }
+.ser{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size:60px;
+}
